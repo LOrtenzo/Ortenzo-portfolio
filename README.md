@@ -7,7 +7,7 @@ I have a passion for helping people to understand complex, challenging ideas thr
 For several years, and especially after the 2016 election, I felt a growing need to use my skills in informal education to help bridge our politically polarized nation through informed, civic engagement and media literacy. That led me to the Master of Public Management Program at the Heinz College at Carnegie Mellon University. I wanted to expand my skills in public policy and quantitative analysis, then create exciting, effective experiences to help voters to do the same. Ultimately, my goal is to help us to become a more skilled and savvy electorate and a more civil society. 
 
 # What I Hope To Learn 
-Honing my data visualization skills is part of the effort I described above. That's why I'm taking this "Telling Stories with Data" class. In my experience, and in research by the National Science Foundation and other organizations, Americans don't understand statistics. Data can be easily manipulated to mislead those who aren't equipped to challenge them. Clear, compelling data visualizations can communicate and educate in ways that will make us smarter collectively. That is my mission.    
+Honing my data visualization skills is part of the effort I described above. That's why I'm taking this "Telling Stories with Data" class. In my experience, and in research by the National Science Foundation and other organizations, Americans don't understand statistics. Data can be easily manipulated to mislead those who aren't equipped to challenge them. Creating clear, compelling data visualizations can communicate and educate in ways that will make us smarter collectively. That is my mission.    
 
 
 # Portfolio
