@@ -28,4 +28,6 @@ When I did the first critique, I found that the story of how the percentages of 
 The feedback I got was that it was hard to read these abbreviations (it was a hand drawing, so I expected that). Viewers also said that they wanted to know the source of the information and to see the percentages clearly for each state. The bars alone weren't precise enough to show the specific values. It took time and thought to figure out what each percentage was. For these reasons, I decided to create a chart with horizontal bars, the percentages at the ends of each bar, and the state names spelled out on the y-axis. I think it's cleaner and clearer to read and understand the ranking of arts funding by state. I used the same color scheme as the report from which the original visualization came to indicate how the redesigned version could replace the original.  
 
 
+# Redesigned Data Visualization 
 
+![Redesigned Visualization](States' Arts Spending as a Percentage of General Fund Expenditures FY 2019.png)
