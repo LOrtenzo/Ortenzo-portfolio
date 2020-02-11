@@ -31,3 +31,8 @@ The feedback I got was that it was hard to read these abbreviations (it was a ha
 # Redesigned Data Visualization 
 
 ![Redesigned Visualization](States' Arts Spending as a Percentage of General Fund Expenditures FY 2019.png)
+
+[Link to other page](/Final Project_Linda Ortenzo.md)
+
+
+
