@@ -1,6 +1,8 @@
 # Ortenzo-portfolio
 Visual story-telling with a kick
 
+[Link to other page](/Final Project_Linda Ortenzo.md)
+
 # About Me
 I have a passion for helping people to understand complex, challenging ideas through engaging and accessible experiences. That led me to a 23-year career at Carnegie Science Center, one of the four Carnegie Museums of Pittsburgh. I was Director of STEM Programs for the last 15 years. In that role, I led a team who developed and implemented programs and competitions that served 10,000+ middle and high school students each year. They continue today. The experiences are designed to inspire students to explore STEM (science, technology, engineering, and math) topics and careers. Students do hands-on activities or major projects and interact with leading professionals in these fields. Throughout my career, I loved the mix of creative and strategic work and the opportunity to have a real impact on students' lives. I also enjoyed serving in senior leadership of the Science Center. 
 
@@ -32,7 +34,7 @@ The feedback I got was that it was hard to read these abbreviations (it was a ha
 
 ![Redesigned Visualization](States' Arts Spending as a Percentage of General Fund Expenditures FY 2019.png)
 
-[Link to other page](/Final Project_Linda Ortenzo.md)
+
 
 
 
