@@ -1,8 +1,8 @@
-#Outline
+# Outline
 Women have been underrepresented in the movie industry in front of, and behind the camera, but films that feature women in those roles have grossed high returns, earned major awards, and told unique stories, so we all benefit from supporting their efforts. 
 As a reader, I want to help equalize the number of women to men in the movie industry as soon as possible, so I can ensure that women are valued equally in American society through the stories, images, and impact of these films on children and adults. 
 
-#Project Structure
+# Project Structure
 My audience is move-going adults.  
 
 My story arc is to use data visualizations to show:
@@ -15,8 +15,8 @@ Next, I will show why it matters culturally that women are underrepresented in f
 
 Resolution: I will conclude with calls to action for what we can do now and for the future. 1) We can see films that women make and that star women. 2) Parents and adults can do a lot to help children understand the importance of women and girls being equally represented as active strong characters in film. This includes watching and discussing stories that feature girls and women as equal partners with men in action oriented roles. Finally, I will show data on where we are now and how these actions can address the issue. 
 
-#Initial Sketches
-![Initial Sketches](Final Project Sketches Part 1.jpg)
+# Initial Sketches
+![Initial Sketches](FinalProjectSketchesPart 1.jpg)
 
 
 
@@ -34,11 +34,11 @@ Resolution: I will conclude with calls to action for what we can do now and for 
 
 
 
-#Data 
+# Data 
 Most of the data I will be using to do the visualizations described in the project structure above will come from this study by the Annenberg Inclusion Initiative.http://assets.uscannenberg.org/docs/aii-inequality-report-2019-09-03.pdf  The data showing that the 2014-17 top grossing films had female leads comes from a study by the former U.S. Chief Technology Officer in this report https://shift7.com/media-research. Data from the impact on children comes from this report infographics by Common Sense Media https://www.commonsensemedia.org/watching-gender-infographic. In all of these cases, I will be recreating the data which is easy to do.  
 
 
-#Method and Medium
+# Method and Medium
 I will use shorthand to complete my project. I will use Tableau to create the data visualizations. I also will search for captivating images of female-led films that were among the top grossing films as well as images that show adults and children viewing films or any media on screen together as part of the calls to action. 
 
 My timeline is to follow the class assignment schedule. More specifically, in Week 2, I'll create and test wireframes and search for images. In Week 3, I'll revise my wireframes per the feedback, search for additional images as needed, and create the 60-second presentation for class. I will then practice that presentation before a representative audience, get feedback, and revise accordingly before Feb. 23. I will do the same for the final project. 
