@@ -22,7 +22,7 @@ Resolution: I will conclude with calls to action for what we can do now and for 
 
 
 # Data 
-Most of the data I will be using to do the visualizations described in the project structure above will come from this study by the [Annenberg Inclusion Initiative](http://assets.uscannenberg.org/docs/aii-inequality-report-2019-09-03.pdf)  The data showing that the 2014-17 top grossing films had female leads comes from a study by the [Creative Arts Agency](http://shift7.com/media-research). Data from the impact of media on children comes from this infographic in a report by [Common Sense Media](http://www.commonsensemedia.org/watching-gender-infographic). I will be recreating the data from all of the sources, because they are not available publicly. It will be easy to do, however, since they are small data sets and tables. 
+Most of the data I will be using to do the visualizations described in the project structure above will come from this study by the [Annenberg Inclusion Initiative](http://assets.uscannenberg.org/docs/aii-inequality-report-2019-09-03.pdf)  The data showing that the 2014-17 top grossing films had female leads comes from a study by the [Creative Arts Agency](http://shift7.com/media-research) Data from the impact of media on children comes from this infographic in a report by [Common Sense Media](http://www.commonsensemedia.org/watching-gender-infographic) I will be recreating the data from all of the sources, because they are not available publicly. It will be easy to do, however, since they are small data sets and tables. 
 
 
 # Method and Medium
