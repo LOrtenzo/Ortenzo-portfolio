@@ -16,6 +16,19 @@ Next, I will show why it matters culturally that women are underrepresented in f
 Resolution: I will conclude with calls to action for what we can do now and for the future. 1) We can see films that women make and that star women. 2) Parents and adults can do a lot to help children understand the importance of women and girls being equally represented as active strong characters in film. This includes watching and discussing stories that feature girls and women as equal partners with men in action oriented roles. Finally, I will show data on where we are now and how these actions can address the issue. 
 
 #Initial Sketches
+![Initial Sketches](Final Project Sketches Part 1.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
