@@ -1,10 +1,19 @@
 #Outline
-Women have been underrepresented in the movie industry in front of, and behind the camera, but films that feature women in those roles have grossed high revenues, earned major awards, and told unique stories, so we all benefit from supporting their efforts. 
-As a reader, I want to help equalize the number of women to men in the movie industryas soon as possible, so I can ensure that women are valued equally in American society through the stories, images, and impact of these films on children and adults.  
+Women have been underrepresented in the movie industry in front of, and behind the camera, but films that feature women in those roles have grossed high returns, earned major awards, and told unique stories, so we all benefit from supporting their efforts. 
+As a reader, I want to help equalize the number of women to men in the movie industry as soon as possible, so I can ensure that women are valued equally in American society through the stories, images, and impact of these films on children and adults. 
 
 #Project Structure
-My story arc is to use data visualizations to show the underrepresentation of women in film, both in front of, and behind the camera from 2000 - 2020 with a focus on 2010 - 2020. This includes roles for women, and female writers and directors.  
+My audience is move-going adults.  
 
+My story arc is to use data visualizations to show:
+
+Setup: Women are vastly underrepresented in film, both in front of, and behind the camera. This includes the numbers of female leading roles and female directors vs. men in those roles. The project will focus on this issue within the last decade.  
+
+Conflict: The lack of female representation in the film industry is bad economically and culturally. I will introduce the Bechdel scale which is a simple three-point test to determine minimum participation of women in film. First, are there two or more women in the film? Second, do they speak to each other? Third, do they talk about anything other than men? It's a low bar, but I will show that no film since 2012 has grossed over a billion dollars without passing that test. Also, I will demonstrate that the highest grossing films from 2014-2017 had female leads. Next, I will show how films directed by women performed financially. I'll conclude this section by reinforcing that women are underrepresented in film, but featuring them prominently is good for the bottom line. 
+
+Next, I will show why it matters culturally that women are underrepresented in film. Not only is equality a matter of justice and good business, but the images of women in film influence perceptions about what women and girls can, and should, be and do. These messages affect men, women, girls, and boys. I will include data on the lasting impact on children. 
+
+Resolution: I will conclude with calls to action for what we can do now and for the future. 1) We can see films that women make and that star women. 2) Parents and adults can do a lot to help children understand the importance of women and girls being equally represented as active strong characters in film. This includes watching and discussing stories that feature girls and women as equal partners with men in action oriented roles. Finally, I will show data on where we are now and how these actions can address the issue. 
 
 #Initial Sketches
 
@@ -13,8 +22,10 @@ My story arc is to use data visualizations to show the underrepresentation of wo
 
 
 #Data 
-
-
+Most of the data I will be using to do the visualizations described in the project structure above will come from this study by the Annenberg Inclusion Initiative.http://assets.uscannenberg.org/docs/aii-inequality-report-2019-09-03.pdf  The data showing that the 2014-17 top grossing films had female leads comes from a study by the former U.S. Chief Technology Officer in this report https://shift7.com/media-research. Data from the impact on children comes from this report infographics by Common Sense Media https://www.commonsensemedia.org/watching-gender-infographic. In all of these cases, I will be recreating the data which is easy to do.  
 
 
 #Method and Medium
+I will use shorthand to complete my project. I will use Tableau to create the data visualizations. I also will search for captivating images of female-led films that were among the top grossing films as well as images that show adults and children viewing films or any media on screen together as part of the calls to action. 
+
+My timeline is to follow the class assignment schedule. More specifically, in Week 2, I'll create and test wireframes and search for images. In Week 3, I'll revise my wireframes per the feedback, search for additional images as needed, and create the 60-second presentation for class. I will then practice that presentation before a representative audience, get feedback, and revise accordingly before Feb. 23. I will do the same for the final project. 
