@@ -20,7 +20,6 @@ Resolution: I will conclude with calls to action on what we can do now and for t
 
 
 
-
 # Data 
 I will use data from this study by the [Annenberg Inclusion Initiative](http://assets.uscannenberg.org/docs/aii-inequality-report-2019-09-03.pdf) to do most of the visualizations described in the project structure above. This study by the [Creative Arts Agency](http://shift7.com/media-research) provides data showing that the 2014-17 top grossing films had female leads. The infographic in this report by [Common Sense Media](http://www.commonsensemedia.org/watching-gender-infographic) features data on parents' concerns about the impact of media on children's perception of gender. I will be recreating the data from all of the sources, because they are not available publicly. It will be easy to do, however, because they are small data sets and tables. 
 
@@ -29,3 +28,7 @@ I will use data from this study by the [Annenberg Inclusion Initiative](http://a
 I will use shorthand to complete my project. I will use Tableau to create the data visualizations. I also will search for captivating images of female-led films that were among the top grossing films, as well as images that show adults and children viewing films or any media on screen together as part of the calls to action. 
 
 My timeline is to follow the class assignment schedule. More specifically, in Week 2, I'll create and test wireframes and search for images. In Week 3, I'll revise my wireframes per the feedback, search for additional images as needed, and create the 60-second presentation for class. I will then practice that presentation before a representative audience, get feedback, and revise accordingly before Feb. 23. I will do the same for the final project. 
+
+# Link to Main Page
+[Main Page](/Ortenzo-portfolio.md)
+
