@@ -30,4 +30,4 @@ I will use shorthand to complete my project. I will use Tableau to create the da
 My timeline is to follow the class assignment schedule. More specifically, in Week 2, I'll create and test wireframes and search for images. In Week 3, I'll revise my wireframes per the feedback, search for additional images as needed, and create the 60-second presentation for class. I will then practice that presentation before a representative audience, get feedback, and revise accordingly before Feb. 23. I will do the same for the final project. 
 
 # Link to Main Page
-[Link to Other Page](https://github.com/LOrtenzo/Ortenzo-portfolio)
+[Link to Other Page](https://lortenzo.github.io/Ortenzo-portfolio/)
