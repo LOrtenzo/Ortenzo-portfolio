@@ -38,7 +38,7 @@ The feedback I got was that it was hard to read these abbreviations (it was a ha
 
 # Final Project Part 2
 
-
+[Link to other page](/FinalProjectPart2.md)
 
 
 
