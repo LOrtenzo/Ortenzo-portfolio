@@ -124,3 +124,4 @@ What effect is this having culturally? It starts very young.
 We have the power to change this.
 ![Wireframe12](Sketch12.JPG)
 
+[Link to other page](/Final Project_Linda Ortenzo.md)
