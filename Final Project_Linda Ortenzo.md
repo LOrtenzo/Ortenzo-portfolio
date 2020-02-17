@@ -31,3 +31,6 @@ My timeline is to follow the class assignment schedule. More specifically, in We
 
 # Link to Main Page
 [Link to Other Page](https://lortenzo.github.io/Ortenzo-portfolio/)
+
+# Link to Final Project Part 2
+[Link to Other Page](/FinalProjectPart2.md)
