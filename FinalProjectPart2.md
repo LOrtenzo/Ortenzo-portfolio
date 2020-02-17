@@ -89,7 +89,38 @@ The male suggested putting #6 and #5 after #1, because they had the most impactf
 The 38-year old female said, "I think you need something to tie the impact on children with the economic information before it." She was the only one to make that comment. 
 
 Revisions based on feedback: 
-I revised #5, #6, and #7 since most or all interviewees said they needed to be clearer. 
+I revised #5, #6, and #7 since most or all interviewees said they needed to be clearer. I eliminated #3, since several people said that wasn't helpful. I also decided to retain the same order after a lot of thought, because it made sense to me and because the feedback otherwise was contradictory. 
 
 
 # Revised Wireframes
+![Wireframe1](Sketch1.JPG)
+
+One way we see this is in the low level of speaking parts women have compared with men.
+![Wireframe2](Sketch2.JPG)
+
+Yet, female-led films are more successful.
+![Wireframe4](Sketch4.jpg)
+
+Of the 350 films analyzed from 2014-2017, 105 are cited as female-led and 245 are listed as male-led in Studio System. The difference in their earnings is telling.
+![Wireframe5](Sketch5.JPG)
+
+Another indicator of disparity is how much women speak in films. 
+![Wireframe6](Sketch6.jpg)
+
+There's even a test to assess women's on-screen participation.
+![Wireframe7](Sketch7.jpg)
+
+It's an incredibly low bar, but a key indicator of a film's success. 
+![Wireframe8](Sketch8.jpg)
+
+Women's representation behind the camera is just as dismal.
+![Wireframe9](Sketch9.JPG)
+
+What effect is this having culturally? It starts very young.
+![Wireframe10](Sketch10.JPG)
+
+![Wireframe11](Sketch11.JPG)
+
+We have the power to change this.
+![Wireframe12](Sketch12.JPG)
+
