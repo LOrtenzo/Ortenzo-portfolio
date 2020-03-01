@@ -1,6 +1,6 @@
 # Outline
-Women have been underrepresented in the movie industry in front of, and behind the camera, but films that feature women in those roles have grossed high returns, earned major awards, and told unique stories, so we all benefit from supporting their efforts. 
-As a reader, I want to help equalize the number of women to men in the movie industry as soon as possible, so I can ensure that women are valued equally in American society through the stories, images, and impact of these films on children and adults. 
+Women have been underrepresented in the movie industry in front of, and behind the camera, but films that feature women in those roles have grossed high returns, earned major awards, and told unique stories. We all benefit from supporting their efforts. 
+As a reader, I want to help equalize the number of women to men in the movie industry as soon as possible, so I can ensure that women are valued equally in American society through the stories, images, and impact these films have on both children and adults. 
 
 # Project Structure
 My audience is move-going adults.  
