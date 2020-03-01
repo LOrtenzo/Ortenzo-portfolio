@@ -27,7 +27,7 @@ Below are the original wireframes followed by a research plan to test them, inte
 ![Wireframe12](Sketch12.JPG)
 
 
-# Interview Feedback 
+# Research Plan and Interview Feedback 
 Women in Film Final Project Research Plan 
 
 Target Audience:
@@ -127,4 +127,6 @@ What effect is this having culturally? It starts very young.
 We have the power to change this.
 ![Wireframe12](Sketch12.JPG)
 
-[Link to other page](/FinalProjectPart1.md)
+[Link back to FinalProjectPart1](/FinalProjectPart1.md)
+
+[Link to FinalProjectPart3(/FinalProjectPart3.md)
