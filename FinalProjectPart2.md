@@ -1,6 +1,6 @@
 # Original Wireframes
 
-Below are the original wireframes, the research plan to test them, and the results of that testing. 
+Below are the original wireframes followed by a research plan to test them, interview feedback, and revised wireframes. 
 
 ![Wireframe1](Sketch1.JPG)
 
