@@ -17,7 +17,7 @@ Check below for my visualizations!
 
 # Assignments 3 & 4
 
-# Original Data Visualization 
+# Original Data Visualization: 
 Table 8: https://nasaa-arts.org/wp-content/uploads/2019/02/NASAA-FY2019-SAA-Revenues-Report.pdf
 
 I chose this visualization, because I have a lifelong involvement in the performing arts and sing professionally, and am interested in arts funding nationwide. I also think that this data tell a compelling story about which states are supporting the arts at the highest levels. These results may surprise readers. They are getting lost in this table, however. I felt I could make it more compelling. 
@@ -32,8 +32,7 @@ When I did the first critique, I found that the story of how the percentages of 
 In both wireframes, I had the range of percentages on the y-axis and the state abbreviations on the x-axis with vertical bars showing the values for each. In Wireframe #1 the state abbreviations are below each bar, and in Wireframe #2 they are above each bar. 
 The feedback I got was that it was hard to read these abbreviations (these are hand drawings, so I expected that). Viewers also said that they wanted to know the source of the information and to see the percentages clearly for each state. The bars alone weren't precise enough to show the specific values. As a result, it took time and thought for viewers to determine what each percentage was. For these reasons, I decided to create a chart with horizontal bars with the percentages at the ends of each bar, and the state names spelled out on the y-axis. I think it's cleaner and easier to read and understand the ranking of arts funding by state. I used the same color scheme as the report from which the original visualization came to indicate how the redesigned version could replace the original. Here is the final version. 
 
-# Redesigned Data Visualization 
-
+# Redesigned Data Visualization: 
 ![Redesigned Visualization](States' Arts Spending as a Percentage of General Fund Expenditures FY 2019.png)
 
 # Final Project Part 1
