@@ -127,6 +127,12 @@ What effect is this having culturally? It starts very young.
 We have the power to change this.
 ![Wireframe12](Sketch12.JPG)
 
-[Link back to FinalProjectPart1](/FinalProjectPart1.md)
+# Link Back to Final Project Part 1
+[Link to other page](/FinalProjectPart1.md)
 
+# Link to Final Project Part 3
 [Link to FinalProjectPart3](/FinalProjectPart3.md)
+
+# Link to Main Page
+[Link to Other Page](https://lortenzo.github.io/Ortenzo-portfolio/)
+
