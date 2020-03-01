@@ -15,7 +15,7 @@ Honing my data visualization skills is part of the effort I described above. Tha
 # Portfolio
 Check here for my visualizations! 
 
-Assignment 3 & 4
+# Assignment 3 & 4
 
 Original Data Visualization 
 Table 8: https://nasaa-arts.org/wp-content/uploads/2019/02/NASAA-FY2019-SAA-Revenues-Report.pdf
@@ -40,6 +40,6 @@ The feedback I got was that it was hard to read these abbreviations (it was a ha
 
 [Link to other page](/FinalProjectPart2.md)
 
+# Final Project Part 3
 
-
-
+[Link to other page](/FinalProjectPart3.md)
