@@ -25,7 +25,7 @@ I will use data from this study by the [Annenberg Inclusion Initiative](http://a
 
 
 # Method and Medium
-I will use shorthand to complete my project. I will use Tableau to create the data visualizations. I also will search for captivating images of female-led films that were among the top grossing films, as well as images that show adults and children viewing films or any media on screen together as part of the calls to action. 
+I will use shorthand to complete my project and Tableau to create the data visualizations. I also will search for captivating images of female-led films that were among the top grossing films, as well as images that show adults and children viewing films or any media on screen together as part of the calls to action. 
 
 My timeline is to follow the class assignment schedule. More specifically, in Week 2, I'll create and test wireframes and search for images. In Week 3, I'll revise my wireframes per the feedback, search for additional images as needed, and create the 60-second presentation for class. I will then practice that presentation before a representative audience, get feedback, and revise accordingly before Feb. 23. I will do the same for the final project. 
 
