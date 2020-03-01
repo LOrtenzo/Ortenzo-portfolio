@@ -18,7 +18,7 @@ Check below for my visualizations!
 # Assignments 3 & 4
 
 # Original Data Visualization 
-Table 8:https://nasaa-arts.org/wp-content/uploads/2019/02/NASAA-FY2019-SAA-Revenues-Report.pdf
+Table 8: https://nasaa-arts.org/wp-content/uploads/2019/02/NASAA-FY2019-SAA-Revenues-Report.pdf
 
 I chose this visualization, because I have a lifelong involvement in the performing arts and sing professionally, and am interested in arts funding nationwide. I also think that this data tell a compelling story about which states are supporting the arts at the highest levels. These results may surprise readers. They are getting lost in this table, however. I felt I could make it more compelling. 
 
