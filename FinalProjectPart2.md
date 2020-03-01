@@ -129,4 +129,4 @@ We have the power to change this.
 
 [Link back to FinalProjectPart1](/FinalProjectPart1.md)
 
-[Link to FinalProjectPart3(/FinalProjectPart3.md)
+[Link to FinalProjectPart3](/FinalProjectPart3.md)
