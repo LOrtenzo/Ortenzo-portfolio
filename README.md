@@ -20,7 +20,7 @@ Check below for my visualizations!
 Original Data Visualization 
 Table 8: https://nasaa-arts.org/wp-content/uploads/2019/02/NASAA-FY2019-SAA-Revenues-Report.pdf
 
-I chose this visualization, because I have a lifelong involvement in the performing arts and sing professionally, and am interested in arts funding nationwide. I also think that it has a compelling story to tell about which states are supporting the arts at the highest levels which may surprise readers, but is getting lost in this table. I felt I could make it more compelling. 
+I chose this visualization, because I have a lifelong involvement in the performing arts and sing professionally, and am interested in arts funding nationwide. I also think that this data tell a compelling story about which states are supporting the arts at the highest levels. These results may surprise readers. They are getting lost in this table, however. I felt I could make it more compelling. 
 
 # My Process: 
 When I did the first critique, I found that the story of how the percentages of arts funding by state compared was lost in two ways. First, the table provided the data alphabetically, which didn't show a ranking of state funding from largest to smallest. Secondly, it had random blue highlighted sections that were confusing, because they didn't indicate anything in particular. It was just a design. I used bar charts in my wireframes below to show this ranking. 
@@ -29,9 +29,8 @@ When I did the first critique, I found that the story of how the percentages of 
 
 ![Wireframe 2](Wireframe 2)
 
-In both wireframes, I had the range of percentages on the y-axis and the state abbreviations on the x-axis with vertical bars showing the values for each. In Wireframe #1 the state abbreviations are below each bar, and in Wireframe #2 they were above each bar. 
-The feedback I got was that it was hard to read these abbreviations (these are hand drawings, so I expected that). Viewers also said that they wanted to know the source of the information and to see the percentages clearly for each state. The bars alone weren't precise enough to show the specific values. It took time and thought for them to figure out what each percentage was. For these reasons, I decided to create a chart with horizontal bars with the percentages at the ends of each bar, and the state names spelled out on the    y-axis. I think it's cleaner and clearer to read and easier to understand the ranking of arts funding by state. I used the same color scheme as the report from which the original visualization came to indicate how the redesigned version could replace the original. Here is how it turned out. 
-
+In both wireframes, I had the range of percentages on the y-axis and the state abbreviations on the x-axis with vertical bars showing the values for each. In Wireframe #1 the state abbreviations are below each bar, and in Wireframe #2 they are above each bar. 
+The feedback I got was that it was hard to read these abbreviations (these are hand drawings, so I expected that). Viewers also said that they wanted to know the source of the information and to see the percentages clearly for each state. The bars alone weren't precise enough to show the specific values. As a result, it took time and thought for viewers to determine what each percentage was. For these reasons, I decided to create a chart with horizontal bars with the percentages at the ends of each bar, and the state names spelled out on the y-axis. I think it's cleaner and easier to read and understand the ranking of arts funding by state. I used the same color scheme as the report from which the original visualization came to indicate how the redesigned version could replace the original. Here is the final version. 
 
 # Redesigned Data Visualization 
 
