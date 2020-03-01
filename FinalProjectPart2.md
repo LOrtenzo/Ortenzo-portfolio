@@ -131,7 +131,7 @@ We have the power to change this.
 [Link to other page](/FinalProjectPart1.md)
 
 # Link to Final Project Part 3
-[Link to FinalProjectPart3](/FinalProjectPart3.md)
+[Link to other page](/FinalProjectPart3.md)
 
 # Link to Main Page
 [Link to Other Page](https://lortenzo.github.io/Ortenzo-portfolio/)
