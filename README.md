@@ -37,7 +37,7 @@ The feedback I got was that it was hard to read these abbreviations (these are h
 
 # Final Project Part 1
 
-[Link to other page](/Final Project_Linda Ortenzo.md)
+[Link to other page](/FinalProjectPart1.md)
 
 # Final Project Part 2
 
